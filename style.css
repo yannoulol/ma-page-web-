@@ -1,0 +1,41 @@
+h1 {
+  color:	#FF8C00;
+font-family: "Sigmar One", cursive;
+font-size: 80px;
+ }
+
+span {
+  border:5px solid 	#A9A9A9		;
+  background-color:#0000CD	;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align:left;
+}
+
+body {
+   background-color: #CCCCCC;
+   background-image: url(images/fond.png);
+background-size: cover;
+font-family: 'Covered By Your Grace', cursive;
+
+  }
+
+p {
+  font-size:30px;
+color: #8B0000 ;
+}
+
+.terre{
+  height:130px;
+  width:130px;
+}
+
+.inline{
+  display: inline-block;
+
+}
+
+.top{
+  margin-left: 150px;
+  vertical-align: top;
+}
